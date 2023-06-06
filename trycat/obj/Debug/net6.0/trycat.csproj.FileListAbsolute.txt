@@ -1,0 +1,15 @@
+C:\Users\2022102020064\source\repos\trycat\trycat\bin\Debug\net6.0\trycat.exe
+C:\Users\2022102020064\source\repos\trycat\trycat\bin\Debug\net6.0\trycat.deps.json
+C:\Users\2022102020064\source\repos\trycat\trycat\bin\Debug\net6.0\trycat.runtimeconfig.json
+C:\Users\2022102020064\source\repos\trycat\trycat\bin\Debug\net6.0\trycat.dll
+C:\Users\2022102020064\source\repos\trycat\trycat\bin\Debug\net6.0\trycat.pdb
+C:\Users\2022102020064\source\repos\trycat\trycat\obj\Debug\net6.0\trycat.csproj.AssemblyReference.cache
+C:\Users\2022102020064\source\repos\trycat\trycat\obj\Debug\net6.0\trycat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020064\source\repos\trycat\trycat\obj\Debug\net6.0\trycat.AssemblyInfoInputs.cache
+C:\Users\2022102020064\source\repos\trycat\trycat\obj\Debug\net6.0\trycat.AssemblyInfo.cs
+C:\Users\2022102020064\source\repos\trycat\trycat\obj\Debug\net6.0\trycat.csproj.CoreCompileInputs.cache
+C:\Users\2022102020064\source\repos\trycat\trycat\obj\Debug\net6.0\trycat.dll
+C:\Users\2022102020064\source\repos\trycat\trycat\obj\Debug\net6.0\refint\trycat.dll
+C:\Users\2022102020064\source\repos\trycat\trycat\obj\Debug\net6.0\trycat.pdb
+C:\Users\2022102020064\source\repos\trycat\trycat\obj\Debug\net6.0\trycat.genruntimeconfig.cache
+C:\Users\2022102020064\source\repos\trycat\trycat\obj\Debug\net6.0\ref\trycat.dll
